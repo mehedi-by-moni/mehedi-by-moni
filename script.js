@@ -1,8 +1,3 @@
-function scrollToProducts() {
-    document.getElementById("products").scrollIntoView({
-        behavior: "smooth"
-    });
-}
 function orderNow(productName) {
         let phone = "8801929174650"; // তোমার নাম্বার (0 বাদ দিয়ে)
             
@@ -12,5 +7,19 @@ function orderNow(productName) {
                             
                                 window.open(url, "_blank");
                                 }
-}
+
+    
+        
+    
+
+
+       
+            
+            
+            
+                       
+                            
+                                
+                                
+
 
